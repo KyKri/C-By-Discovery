@@ -22,5 +22,10 @@ If you feel like giving Dev Containers a try and don't already have it, install 
     ../out/[program_name]
     ```
 
+### Exiting the Dev Container
+When you're done inside the Dev Container, bring up the command palette and select "Reopen Folder Locally"
+
+![Reopen Locally](./images/DevContainerReopenLocally.png)
+
 ## Container Info
 This repo's Dockerfile uses the latest [gcc image](https://hub.docker.com/_/gcc/) to compile and execute the code. All of the file contents are copied into the container for editing, compilation and execution, and then copied back to the local storage once done.
