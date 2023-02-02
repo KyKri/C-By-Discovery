@@ -10,6 +10,6 @@ void main (void)
 
         printf("I in the inner block is %d.\n", i);
     }
-        printf("I in the function block is %d.\n", i);
-
+    
+    printf("I in the function block is %d.\n", i);
 }

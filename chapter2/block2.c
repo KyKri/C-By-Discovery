@@ -3,6 +3,7 @@
  * In particular, this program will not compile due to i not being defined
  * in the main function block. 
 */
+
 /* Inlcude File */
 #include <stdio.h>
 
